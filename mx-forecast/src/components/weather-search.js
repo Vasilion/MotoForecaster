@@ -63,7 +63,7 @@ function WeatherSearch() {
             <input 
               type="text"
               className="search-bar"
-              placeholder="Enter city name"
+              placeholder="Enter track or city name"
               onChange={e => cityCheck(e.target.value)}
               value={input}
               onKeyPress={search}
