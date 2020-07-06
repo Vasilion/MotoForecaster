@@ -10,6 +10,10 @@ h1 {
   color: #FFF;
 }
 
+::placeholder{
+  text-align: center;
+}
+
 .title{
   text-align: center;
   padding-bottom: 30px;
